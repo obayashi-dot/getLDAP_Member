@@ -1,0 +1,6 @@
+uname -n
+date
+whoami
+ls
+su -
+whoami

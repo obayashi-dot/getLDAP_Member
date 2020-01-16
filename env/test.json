@@ -1,0 +1,14 @@
+{
+	"User":{
+			"username":"<username>",
+			"password":"<password>",
+			"susername":"<superuser>"
+			},
+	"Server":{
+			"KANJICODE":"SJIS",
+			"prompt":"'tssuser@AIX071[]>' 'root@AIX071[]'",
+			"IP":"<yourip>",
+			"Service":"SSH",
+			"Port":"22"
+			}
+}
